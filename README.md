@@ -11,8 +11,9 @@
 
 - 📫 How to reach me **apoorvy.it.21@nitj.ac.in**
 
-- 📄 Know about my experiences [https://maroon-noreen-13.tiiny.site](https://maroon-noreen-13.tiiny.site)
-
+- 📄 Know about my experiences 
+<!-- - [https://maroon-noreen-13.tiiny.site](https://maroon-noreen-13.tiiny.site)
+ -->
 - ⚡ Fun fact **I am in love with the Technology!**
 
 <h3 align="left">Connect with me:</h3>
