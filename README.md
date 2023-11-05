@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Android development and Flutter**
 
-- ⭐ I’m looking to collaborate on [Machine Learning and Android Developement](https://maroon-noreen-13.tiiny.site)
+- ⭐ I’m looking to collaborate on [Flutter and Android Developement](https://maroon-noreen-13.tiiny.site)
 
-- 💬 Ask me about **Kotlin, React, Machine learning in Python**
+- 💬 Ask me about **Kotlin, React, Java and Flutter**
 
 - 📫 How to reach me **apoorvy.it.21@nitj.ac.in**
 
