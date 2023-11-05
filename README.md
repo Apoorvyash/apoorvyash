@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apoorv Yash</h1>
 <h3 align="center">A passionate Android developer and Machine learning Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Family safety android project](https://github.com/Apoorvyash/Family_safety)
+- 🔭 I’m currently working on [Family safety application project](https://github.com/Apoorvyash/Family_safety)
 
 - 🌱 I’m currently learning **Android development and Flutter**
 
